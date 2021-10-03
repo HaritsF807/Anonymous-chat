@@ -5,13 +5,13 @@
 <!-- <h1>ANCHT BOT</h1> -->
 </p>
 <p align="center">
-<a href="https://github.com/HaritsF807"><img title="Author" src="https://img.shields.io/badge/Author-MRHRTZ-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/HaritsF807"><img title="Author" src="https://img.shields.io/badge/Author-HaritsF807-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HaritsF807/Anonymous-chat/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRHRTZ/Anon-Chat?color=red&style=flat-square"></a>
-<a href="https://github.com/HaritsF807/Anonymous-chat/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MRHRTZ/Anon-Chat?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/HaritsF807/Anonymous-chat"><img title="Followers" src="https://img.shields.io/github/followers/MRHRTZ?color=blue&style=flat-square"></a>
-<a href="https://github.com/HaritsF807/Anonymous-chat/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRHRTZ/Anon-Chat?color=red&style=flat-square"></a>
+<a href="https://github.com/HaritsF807/Anonymous-chat/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HaritsF807/Anoymous-chat?color=red&style=flat-square"></a>
+<a href="https://github.com/HaritsF807/Anonymous-chat/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HaritsF807/Anonymous-chat?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/HaritsF807/Anonymous-chat"><img title="Followers" src="https://img.shields.io/github/followers/HaritsF807?color=blue&style=flat-square"></a>
+<a href="https://github.com/HaritsF807/Anonymous-chat/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HaritsF807/Anonymous-chat?color=red&style=flat-square"></a>
 </p>
 
 ## Installation
@@ -33,4 +33,4 @@
 
 ## Contact Me
 - <a href="https://wa.me/62882218131782?text=Hi">WhatsApp</a>
-- <a href="https://www.instagram.com/harits_fahrizal.sq.61">Instagram</a>
+- <a href="https://www.instagram.com/harits_fahrizal">Instagram</a>
